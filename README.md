@@ -1,8 +1,5 @@
 <!Docttype! html>
 <html>
-<style>
-body {background-color: cyan}
-</style>
 <body>
 <h1>Marcetplace</h1>
 <p>marcetplace is a Shop That You Can Buy Things Like Free Or Premium.Free is Limited by mojang entertainment but Premium are make by Other studio other then mojang.</p>
