@@ -7,6 +7,8 @@
 <p>open minecraft and Click Marcetplace.once you done click the addon,maps,texture,skin,dlc into the apps.and click share logo,copy link and open the marceplace apps.once you open the app it will look like this</p>
 <img src="main.png" width="250px" height="560px">
 <p>Then At Enter URL id You Enter Link That You copy in your minecraft.</p>
+<p>Or If you Wanna Search You Will Get Ui Like This</p>
+<img src="search.png" width="250px" height="560px"
 <h1>DOWNLOAD!HERE</h1>
 <p>Here is the download</p>
 <a href="https://t.me/KIWIDOWNLOADSERVER/13" download>download APK</a>
