@@ -2,7 +2,7 @@
   <body>
     <h1>New Sneak Peak App👀</h1>
     <p>new Sneak Peak for a new Update Application</p>
-<a href"https://youtube.com/shorts/sJUFHvIqi90?si=-EnTEfHN_vuGqBOg" download>Watch The Sneak Peak 👀</a>
+https://youtube.com/shorts/sJUFHvIqi90?si=-EnTEfHN_vuGqBOg
  <h1>Release</h1>
       <p>beta version release are 10 october 2025</p>
          <p>full app release is comming soon...</p>
