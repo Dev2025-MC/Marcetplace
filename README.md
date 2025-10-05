@@ -2,8 +2,8 @@
   <body>
     <h1>New Sneak Peak App👀</h1>
     <p>new Sneak Peak for a new Update Application</p>
-    <video controls src = "boy.mp4" width="150px"></video>
-    <h1>Release</h1>
+    <a href="https://youtube.com/shorts/sJUFHvIqi90?si=-EnTEfHN_vuGqBOg" watch the Sneak peak</a>
+     <h1>Release</h1>
       <p>beta version release are 10 october 2025</p>
          <p>full app release is comming soon...</p>
 <p>Connect in whatsapp 896-8579-977 :3</p>
